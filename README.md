@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Nitya1125/Nitya1125/blob/main/IMG_202601292029300.PNG?raw=true" style="width:100%; max-width:100%; height:400px; object-fit:cover;"></p>
 <h1 align="center">Hi 👋, I'm Nitya Gandhi</h1>
-<h3 align="center">CSD student passionate about Web Development & UI/UX</h3>
+<h3 align="center">CSD student passionate about MERN STACK WEB DEVELOPMENT & UI/UX</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
