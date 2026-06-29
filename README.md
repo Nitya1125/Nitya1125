@@ -253,9 +253,12 @@ const nitya = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=1800" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya1125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya1125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitya1125&theme=tokyonight" width="95%" />
 </p>
 
 ---
@@ -273,6 +276,7 @@ const nitya = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitya1125&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true" width="100%" />
 </p>
+
 
 
 ## 🤝 Connect With Me
