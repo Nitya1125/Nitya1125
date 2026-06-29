@@ -29,7 +29,6 @@ const nitya = {
   internship  : "Software Development Intern @ HankersNest Technologies",
   focus       : ["Backend Development", "Full Stack Engineering", "REST APIs",
                  "Database Design", "DSA", "System Design"],
-  current     : "Building VulnScan – AI Web Vulnerability Scanner 🛡️",
   goal        : "Secure a role at a top product-based company",
   funFact     : "I turn coffee into scalable APIs ☕ → 🔌"
 };
@@ -275,18 +274,6 @@ const nitya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitya1125&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nitya1125/Nitya1125/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> _To enable the snake animation, add a GitHub Action in your repo:_
-> `.github/workflows/snake.yml` → see [Platane/snk](https://github.com/Platane/snk)
-
----
 
 ## 🤝 Connect With Me
 
