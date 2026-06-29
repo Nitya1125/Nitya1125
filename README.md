@@ -1,38 +1,103 @@
-<p align="center"><img src="https://github.com/Nitya1125/Nitya1125/blob/main/IMG_202601292029300.PNG?raw=true" style="width:100%; max-width:100%; height:400px; object-fit:cover;"></p>
-<h1 align="center">Hi 👋, I'm Nitya Gandhi</h1>
-<h3 align="center">CSD student passionate about MERN STACK WEB DEVELOPMENT & UI/UX</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitya1125&label=Profile%20views&color=0e75b6&style=flat" alt="nitya1125" /> </p>
-
-- 🔭 I’m currently working on **VulnScan**
-
-- 👯 I’m looking to collaborate on **Web development & UI/UX based projects**
-
-- 🤝 I’m looking for help with **Backend optimization & MongoDB integration**
-
-- 📝 I regularly write articles on [Learning & building web development projects](Learning & building web development projects)
-
-- 💬 Ask me about **React, UI/UX design,Flask, MongoDB & frontend development**
-
-- 📫 How to reach me **nityagandhi1125@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nitya-gandhi-2b2032295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nitya-gandhi-2b2032295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-- ⚡ Fun fact **I turn coffee into code ☕💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nitya_1125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitya_1125" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/390009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="390009" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Nitya%20Gandhi&fontSize=55&fontColor=ffffff&color=0:0f2027,50:ff2a6d,100:05d9e8&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=FF2A6D&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya1125&show_icons=true&locale=en&layout=compact" alt="nitya1125" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitya1125&style=for-the-badge&color=ff2a6d" alt="nitya1125" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&locale=en" alt="nitya1125" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya1125&" alt="nitya1125" /></p>
+## About Me
+
+- 🎓 **B.Tech in Computer Science and Design**  
+  Student passionate about building full-stack web applications
+
+- 🔭 Currently working on **VulnScan**
+
+- 👯 Looking to collaborate on **Web Development & UI/UX projects**
+
+- 🤝 Looking for help with **Backend optimization & MongoDB integration**
+
+- 📝 I regularly write articles on [Learning & building web development projects](#)
+
+- 💬 Ask me about **React, UI/UX design, Flask, MongoDB & frontend development**
+
+- 📫 Reach me at **nityagandhi1125@gmail.com**
+
+- ⚡ Fun fact: **I turn coffee into code ☕💻**
+
+---
+
+## Tech Stack
+
+### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+### Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)](https://restfulapi.net/)
+
+### Database
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### Tools & Deployment
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitya1125)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+---
+
+## Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nitya1125&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800)](https://git.io/streak-stats)
+
+---
+
+## Contribution Activity
+
+[![Nitya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitya1125&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&theme=tokyonight&hide_border=true" alt="Nitya's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya1125&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nitya1125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitya-gandhi-2b2032295)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitya_1125)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityagandhi1125@gmail.com)
+
+---
+
+*Design is not just what it looks like — it's how it works.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff2a6d,100:05d9e8&section=footer" width="100%" />
+</p>
