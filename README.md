@@ -229,10 +229,24 @@ const nitya = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitya1125&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Top_Product_Company-7c3aed?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/💼_Experience-Software_Dev_Intern-a855f7?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/🚀_Projects-7%2B_Built-6d28d9?style=for-the-badge&labelColor=1e1b4b" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Stack-MERN_%7C_Next.js_%7C_Flask-4f46e5?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/🗄️_Databases-MongoDB_%7C_MySQL_%7C_PostgreSQL-0ea5e9?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/🛡️_Security-OWASP_Principles-ef4444?style=for-the-badge&labelColor=1e1b4b" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_DSA-LeetCode_Practitioner-FFA116?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/⚙️_APIs-REST_%7C_JWT_%7C_CRUD-22c55e?style=for-the-badge&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/📐_Architecture-MVC_%7C_Microservices-f59e0b?style=for-the-badge&labelColor=1e1b4b" />
 </p>
 
 ---
@@ -240,9 +254,9 @@ const nitya = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitya1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=1800" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya1125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya1125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8&cache_seconds=1800" width="48%" />
 </p>
 
 ---
