@@ -271,11 +271,6 @@ const nitya = {
 
 ---
 
-## 📉 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitya1125&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true" width="100%" />
-</p>
 
 
 
